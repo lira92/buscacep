@@ -1,0 +1,36 @@
+{
+  "name": "buscacep",
+  "version": "1.0.0",
+  "description": "Biblioteca javascript para buscar o endereço a partir do cep.",
+  "main": "src/buscacep.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-uglify": "^1.5.4",
+    "gulp-rename": "^1.2.2",
+    "jshint": "^2.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lira92/buscacep.git"
+  },
+  "keywords": [
+    "cep",
+    "js",
+    "jquery"
+  ],
+  "author": "Alan Lira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lira92/buscacep/issues"
+  },
+  "homepage": "https://github.com/lira92/buscacep#readme"
+}

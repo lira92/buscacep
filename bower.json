@@ -1,0 +1,21 @@
+{
+  "name": "buscacep",
+  "authors": [
+    "Alan Lira <alan@lyftweb.com.br>"
+  ],
+  "description": "Biblioteca javascript que auxilia a busca de cep usando jquery",
+  "main": "busca.cep.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
