@@ -11,7 +11,9 @@ var buscacep = {
                     data = data[0];
                 }
                 callback(data);
+                return;
             }
+            callback(null);
         });
     },
     buscaPorEndereco : function(logradouro, localidade, uf, callback) {
